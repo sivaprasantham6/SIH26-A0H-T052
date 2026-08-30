@@ -22,8 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |  Deepa Raj K        |    Assistant Professor     |         School of AI                | k_deeparaj@cb.amrita.edu                         |
-| Industry       |                     |                       |                         |                          |
+| Academic       |  Deepa Raj K        |    Assistant Professor     |         School of AI                | k_deeparaj@cb.amrita.edu                         |       |                     |                       |                         |                          |
 
 -----
 
