@@ -30,14 +30,14 @@
 
 #### PS#1
 
-* Problem Statement ID: SIH26-A0H-T052
+* Problem Statement ID: SIH26082
 * Problem Statement Title: Air Pollution Weather Coupled Forecasting System (Delhi NCR Focus)
 * Theme / Category: Clean and Green technology
 * Ministry / Organization: Ministry of Earth Sciences (MoES)
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26131
+* **Problem Statement Title:Early detection and management of crop diseases and pest infestations
+* **Theme / Category: Agriculture, FoodTech & Rural Development
+* **Ministry / Organization: Government Of Maharashtra
