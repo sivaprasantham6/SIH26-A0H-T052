@@ -38,6 +38,6 @@
 #### PS#2
 
 * **Problem Statement ID: SIH26131
-* **Problem Statement Title:Early detection and management of crop diseases and pest infestations
+* **Problem Statement Title: Early detection and management of crop diseases and pest infestations
 * **Theme / Category: Agriculture, FoodTech & Rural Development
 * **Ministry / Organization: Government Of Maharashtra
