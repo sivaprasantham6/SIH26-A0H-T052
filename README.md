@@ -5,24 +5,24 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T052
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** TECH FORGE <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |   Siva Prasantham K     |    CB.SC.U4AIE26161    |     Male            |    School of AI / B.Tech CSE(AI)              |  
+|    Member 2     |    Aathithya S R        |    CB.SC.U4CSE26303    |     Male            |     School of Computing / B.Tech CSE(CYS)     |                
+|    Member 3     |    Gowtham Krishna J    |    CB.EN.U4ECE26316    |     Male            |    School of Engineering / B.Tech ECE         |  
+|    Member 4     |   Nithish Raam A        |    CB.SC.U4AIE26101    |     Male            |    School of AI / B.Tech CSE(AI)              |   
+|    Member 5     |   Pratiksha V           |    CB.SC.U4AIE26151    |     Female          |    School of AI / B.Tech CSE(AI)              |  
+|    Member 6     |   Harshitha T           |    CB. SC. U4AIE26021  |     Female          |    School of AI / B.Tech CSE(AI)              |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |  Deepa Raj K        |    Assistant Proffesor     |         School of AI                | k_deeparaj@cb.amrita.edu                         |
 | Industry       |                     |                       |                         |                          |
 
 -----
