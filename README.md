@@ -22,18 +22,18 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |  Deepa Raj K        |    Assistant Professor     |         School of AI                | k_deeparaj@cb.amrita.edu                         |       |  Industry                   |                       |                         |                          |
-
+| Academic       |  Deepa Raj K        |    Assistant Professor     |         School of AI                | k_deeparaj@cb.amrita.edu                         |   
+|  Industry                   |                       |                         |                          
 -----
 
 ### Problem Statement(s)
 
 #### PS#1
 
-* **Problem Statement ID: SIH26-A0H-T052
-* **Problem Statement Title: Air Pollution Weather Coupled Forecasting System (Delhi NCR Focus)
-* **Theme / Category: Clean and Green technology
-* **Ministry / Organization: Ministry of Earth Sciences (MoES)
+* Problem Statement ID: SIH26-A0H-T052
+* Problem Statement Title: Air Pollution Weather Coupled Forecasting System (Delhi NCR Focus)
+* Theme / Category: Clean and Green technology
+* Ministry / Organization: Ministry of Earth Sciences (MoES)
 
 #### PS#2
 
