@@ -12,7 +12,7 @@
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |   Siva Prasantham K     |    CB.SC.U4AIE26161    |     Male            |    AIE              |  
-|    Member 2     |    Aathithya S R        |    CB.SC.U4CSE26303    |     Male            |     CYS |                
+|    Member 2     |    Aathithya S R        |    CB.SC.U4CSE26303    |     Male            |     CSE |                
 |    Member 3     |    Gowtham Krishna J    |    CB.EN.U4ECE26316    |     Male            |   ECE         |  
 |    Member 4     |   Nithish Raam A        |    CB.SC.U4AIE26101    |     Male            |  AIE          |   
 |    Member 5     |   Pratiksha V           |    CB.SC.U4AIE26151    |     Female          |    AIE              |  
