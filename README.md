@@ -34,6 +34,7 @@
 * Problem Statement Title: Air Pollution Weather Coupled Forecasting System (Delhi NCR Focus)
 * Theme / Category: Clean and Green technology
 * Ministry / Organization: Ministry of Earth Sciences (MoES)
+* Youtube Video Link: https://youtu.be/LJktHTJf0L0?si=AzlAAZ2JE3ns26Bw
 
 #### PS#2
 
