@@ -10,7 +10,7 @@
 #### **Team Name** TECH FORGE <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme  |  Caste Category  |  Disability Details |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------:| |:---------------:| 
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------:|:---------------:| 
 |   Team Leader   |   Siva Prasantham K     |    CB.SC.U4AIE26161    |     Male            |    AIE              |      BC                    | None       |
 |    Member 2     |    Aathithya S R        |    CB.SC.U4CSE26303    |     Male            |     CSE             |        BC                | None  |
 |    Member 3     |    Gowtham Krishna J    |    CB.EN.U4ECE26316    |     Male            |   ECE         |             OC                   | None  |
