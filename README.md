@@ -13,10 +13,10 @@
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------:|:---------------:| 
 |   Team Leader   |   Siva Prasantham K     |    CB.SC.U4AIE26161    |     Male            |    AIE              |      BC                    | None       |
 |    Member 2     |    Aathithya S R        |    CB.SC.U4CSE26303    |     Male            |     CSE             |        BC                | None  |
-|    Member 3     |    Gowtham Krishna J    |    CB.EN.U4ECE26316    |     Male            |   ECE         |             OC                   | None  |
-|    Member 4     |   Nithish Raam A        |    CB.SC.U4AIE26101    |     Male            |  AIE          |               OC                 | None  |
-|    Member 5     |   Pratiksha V           |    CB.SC.U4AIE26151    |     Female          |    AIE              |           OC               |  None  |
-|    Member 6     |   Harshitha T           |    CB. SC. U4AIE26021  |     Female          |  AIE              |               OC             | None  |
+|    Member 3     |    Gowtham Krishna J    |    CB.EN.U4ECE26316    |     Male            |   ECE         |             BC                   | None  |
+|    Member 4     |   Nithish Raam A        |    CB.SC.U4AIE26101    |     Male            |  AIE          |               BC                 | None  |
+|    Member 5     |   Pratiksha V           |    CB.SC.U4AIE26151    |     Female          |    AIE              |           BC               |  None  |
+|    Member 6     |   Harshitha T           |    CB. SC. U4AIE26021  |     Female          |  AIE              |               BC             | None  |
 
 #### Mentor Details
 
